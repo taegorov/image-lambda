@@ -22,3 +22,8 @@ The main issues I ran into were:
 > a link to your images.json file
 
 https://s3.console.aws.amazon.com/s3/buckets/taegorovbucket?region=us-west-2&tab=objects
+
+
+### Resources
+
+Jacob Knaack and Kristian Esvelt helped us with this a lot.
